@@ -32,7 +32,7 @@ Este projeto foi desenvolvido utilizando-se das tecnologias abaixo:
 <a id="resultados"></a>
 ## :heavy_check_mark: Resultados
 <p>
-Como resultado da semana da Next Level Week foi desenvolvido um aplicativo com React Native capaz de fazer requisições a um servidor que entrega as informações necessárias para exibição no app.
+Como resultado da semana da Next Level Week foi desenvolvido um website que permite que usuários vejam pessoas dispostar a dar aula ou cadastrem suas aulas. 
 Veja os outros repositórios deste mesmo projeto:
 </p>
 <a href="https://github.com/higorpo/proffy-mobile">Versão mobile</a>
@@ -52,11 +52,11 @@ git clone https://github.com/higorpo/proffy-web.git
 
 Instale as dependências do projeto
 ```sh 
+cd proffy-web
 yarn
 ```
 
 Inicie a aplicação web
 ```sh 
-cd proffy-web
 yarn start
 ```
