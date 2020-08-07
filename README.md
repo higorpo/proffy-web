@@ -31,11 +31,19 @@ Este projeto foi desenvolvido utilizando-se das tecnologias abaixo:
 
 <a id="resultados"></a>
 ## :heavy_check_mark: Resultados
-<p>Ainda em progresso!</p>
+<p>
+Como resultado da semana da Next Level Week foi desenvolvido um aplicativo com React Native capaz de fazer requisições a um servidor que entrega as informações necessárias para exibição no app.
+Veja os outros repositórios deste mesmo projeto:
+</p>
+<a href="https://github.com/higorpo/proffy-mobile">Versão mobile</a>
+<br/>
+<a href="https://github.com/higorpo/proffy-backend">Backend</a>
 
 <a id="comousar"></a>
 ## :fire: Como usar?
 <p>Para executar este projeto em sua máquina local existem alguns requisitos básicos. Você deve ter o Node.js instalado na sua versão mais recente e um gerenciador de pacotes Yarn ou NPM.</p>
+
+<b>*Você precisa também baixar o <a href="https://github.com/higorpo/proffy-backend">back-end</a> da aplicação e executá-lo.</b>
 
 Clone este repositório
 ```sh 
@@ -49,6 +57,6 @@ yarn
 
 Inicie a aplicação web
 ```sh 
-cd ../web
+cd proffy-web
 yarn start
 ```
